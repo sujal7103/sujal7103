@@ -129,7 +129,7 @@
  </div>
  <br><br> -->
 
-
+<!--
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Activity:</h3>
