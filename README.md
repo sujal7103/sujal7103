@@ -33,7 +33,7 @@
 
 <!-- - 🔭 I’m currently working on **UA IT(JKH IT)** -->
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 **MERN** Stack Developer
 
 <!-- - 👨‍💻 All of my projects are available at [kdgehlot's workspace](http://) -->
 
