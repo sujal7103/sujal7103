@@ -33,7 +33,7 @@
 
 <!-- - 🔭 I’m currently working on **UA IT(JKH IT)** -->
 
-- 🌱 **FUll** Stack Developer
+- 🌱 **FULL** Stack Developer
 
 <!-- - 👨‍💻 All of my projects are available at [kdgehlot's workspace](http://) -->
 
