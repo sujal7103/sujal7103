@@ -33,11 +33,11 @@
 
 <!-- - 🔭 I’m currently working on **UA IT(JKH IT)** -->
 
-- 🌱 **MERN** Stack Developer
+- 🌱 **FUll** Stack Developer
 
 <!-- - 👨‍💻 All of my projects are available at [kdgehlot's workspace](http://) -->
 
-- 💬 Ask me about **Python, Machine Learning, ReactJS**
+- 💬 Ask me about **Python, Typescript, NextJS, ReactJS**
 
 - 📫 How to reach me **sujal4.patil@gmail.com**
 
