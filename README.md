@@ -12,12 +12,10 @@
   </em>
 </p>
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white&link=https://www.sujalpatil.me)](https://www.sujalpatil.me)
-
-[![Linkedin: sujal-patil](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sujal-patil-785852277/)](https://www.linkedin.com/in/sujal-patil-785852277/)
-
-![GitHub followers](https://img.shields.io/github/followers/sujal7103?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=sujal7103.sujal7103)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sujalpatil.me)
+[![Linkedin: sujal-patil](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sujal-patil-785852277/)
+[![GitHub followers](https://img.shields.io/github/followers/sujal7103?label=Follow&style=social)](https://github.com/sujal7103)
+[![Gmail](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:sujal4.patil@gmail.com)
 
 ---
 
